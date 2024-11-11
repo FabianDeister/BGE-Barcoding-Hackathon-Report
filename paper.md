@@ -35,6 +35,7 @@ authors:
   - name: Pierre-Etienne Cholley (PEC)
     affiliation: 1
   - name: Fabian Deister (FD)
+    orcid: 0000-0002-3172-3223
     affiliation: 9
   - name: Dick Groenenberg (DG)
     affiliation: 1
